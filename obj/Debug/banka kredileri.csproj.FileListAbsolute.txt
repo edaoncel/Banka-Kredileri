@@ -1,0 +1,10 @@
+C:\Users\eda öncel\Desktop\banka kredileri\bin\Debug\banka kredileri.exe.config
+C:\Users\eda öncel\Desktop\banka kredileri\bin\Debug\banka kredileri.exe
+C:\Users\eda öncel\Desktop\banka kredileri\bin\Debug\banka kredileri.pdb
+C:\Users\eda öncel\Desktop\banka kredileri\obj\Debug\banka kredileri.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\banka kredileri\obj\Debug\banka_kredileri.Form1.resources
+C:\Users\eda öncel\Desktop\banka kredileri\obj\Debug\banka_kredileri.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\banka kredileri\obj\Debug\banka kredileri.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\banka kredileri\obj\Debug\banka kredileri.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\banka kredileri\obj\Debug\banka kredileri.exe
+C:\Users\eda öncel\Desktop\banka kredileri\obj\Debug\banka kredileri.pdb
