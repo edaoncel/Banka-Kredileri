@@ -22,7 +22,7 @@ namespace banka_kredileri
             int anapara = Convert.ToInt32(txtAnapara.Text);
             float faizoranı = Convert.ToInt32(txtFaizoranı.Text);
             int vade = Convert.ToInt32(txtVade.Text);
-            float hesapla = faizoranı = (anapara * faizoranı * vade) / 360;
+            float hesapla = faizoranı = (anapara * faizoranı * vade) / 365;
             btnHesapla.Text = hesapla.ToString();
         }
     }
